@@ -11,10 +11,8 @@ There could be different scenarios where we can use git. We will handle them sep
 ### Scenario 1: You have a remote project and want to keep track of it
 
 1. Initialize git on the local folder. 
-        
-        '''
+ 
         git init
-        '''
     
     In case if you want to remove the git folder from the directory, use:
         
