@@ -1,5 +1,8 @@
-
-## Inspiration for project Todolist
+---
+layout: post
+title: Inspiration for project Todolist
+categories: [Python, Flask]
+---
 
 In my opinion, as part of organising our personal as well as professional life, one needs to keep a 
 list of tasks to complete. Some people like me, uses the classic pen and paper method while others keep 
