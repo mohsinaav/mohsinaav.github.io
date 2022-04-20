@@ -1,5 +1,8 @@
-
-## Contributions to open source project - 'html5-qrcode'
+---
+layout: post
+title: Contributions to open source project - 'html5-qrcode'
+categories: Html
+---
 
 Html5-QRCode is a light-weight library to easily integrate QR code scanning functionality to a web application. All details regarding the project are clearly stated in it's github page - [html5-qrcode](https://github.com/mebjas/html5-qrcode). An end-to-end implementation is done by the author - [scanapp.org](https://scanapp.org/#reader). I recently came across it and had the chance to contribute to it by adding few changes. 
 
