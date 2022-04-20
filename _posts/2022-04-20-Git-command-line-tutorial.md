@@ -12,7 +12,9 @@ There could be different scenarios where we can use git. We will handle them sep
 
 1. Initialize git on the local folder. 
         
+        '''
         git init
+        '''
     
     In case if you want to remove the git folder from the directory, use:
         
