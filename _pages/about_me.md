@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about_me/
+permalink: /about-me/
 ---
 
 My name is Mohsina.A.V.
