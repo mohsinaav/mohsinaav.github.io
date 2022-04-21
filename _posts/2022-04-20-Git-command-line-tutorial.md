@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git-command-line-tutorial
+title: Git-on-the-command-line-tutorial-for-Windows-user.
 categories: Git
 ---
 
