@@ -4,7 +4,9 @@ title: About me
 permalink: /about-me/
 ---
 
-My name is Mohsina.A.V. 🙂
+![Redmond](https://mohsinaav.github.io/assets/images/redmond.jpg)
+
+Hey there... My name is Mohsina.A.V. 🙂
 
 I live in **Redmond**, Washington, USA; home of Microsoft, Amazon, Nintendo. 
 
