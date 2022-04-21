@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blogs
-permalink: /blogs/
+permalink: /getting-started/
 ---
 
 ### Step 1) Fork Reverie to your User Repository
