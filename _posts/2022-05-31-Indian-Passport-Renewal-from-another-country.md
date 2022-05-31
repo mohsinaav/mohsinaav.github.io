@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Indian Passport Renewal from outside India
-categories: Personal
+categories: [Personal,General]
 ---
 
 In this article, I would like to discuss the process involved in renewing your Indian passport for outside the country. 
