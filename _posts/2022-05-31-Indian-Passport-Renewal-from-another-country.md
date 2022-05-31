@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Code snippets in a blog post
-categories: [Personal]
+categories: Personal
 ---
 
 In this article, I would like to discuss the process involved in renewing your Indian passport for outside the country. 
@@ -24,4 +24,4 @@ Step-by-step process are described in detail below:
    * With the above step, online process is complete. Next we need to send the application booklet via mail. Document checklist is available here. 
   Print it out. Gather all the documents, get it signed and notarized. Send the application package.
 
-If you need more detailed explanations, visit https://visa.vfsglobal.com/usa/en/ind/apply-passport/.
+If you need more detailed explanations, visit [VFS Global](https://visa.vfsglobal.com/usa/en/ind/apply-passport/).
