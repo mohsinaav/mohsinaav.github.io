@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Code snippets in a blog post
+categories: [Personal]
+---
+
 In this article, I would like to discuss the process involved in renewing your Indian passport for outside the country. 
 Step-by-step process are described in detail below:
 
