@@ -9,7 +9,8 @@ Step-by-step process are described in detail below:
 
 1. Fill the application form:
    * Go to [Indian passport website](https://embassy.passportindia.gov.in/), select the country from where you are applying. It will redirect you to the login page, you can either register or login here. 
-   * After finishing the initial part of registering or logging in, you will be on the applicant home page. Todo: add a picture here.
+   * After finishing the initial part of registering or logging in, you will be on the applicant home page.
+   <br><br><img src="/assets/images/RenewPassport_applicant_homepage.png" alt="Applicant homepage" width="500"/>   
    * Select the first option, Apply for Ordinary Passport. 
   Provide all the required details and submit it once completed. In case of any queries, you can refer the [Sample application form](https://visa.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/sample-passport-online-application-form.pdf). Print the application. You will need to sign it at two places and affix a recent photograph. *Application Reference Number mentioned in the form is required in later stages*.
 		
