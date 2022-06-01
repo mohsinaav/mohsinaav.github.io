@@ -4,7 +4,7 @@ title:  Indian Passport Renewal from outside India
 categories: [Personal,General]
 ---
 
-In this article, I would like to discuss the process involved in renewing your Indian passport for outside the country. 
+In this article, I would like to discuss the process involved in renewing your Indian passport from outside the country. 
 Step-by-step process are described in detail below:
 
 **1. Fill the application form:**
@@ -12,7 +12,7 @@ Step-by-step process are described in detail below:
    * After finishing the initial part of registering or logging in, you will be on the applicant home page.
    <br><br><img src="/assets/images/RenewPassport_applicant_homepage.png" alt="Applicant homepage" width="500"/>   
    * Select the first option, Apply for Ordinary Passport. 
-  Provide all the required details and submit it once completed. In case of any queries, you can refer the [Sample application form](https://visa.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/sample-passport-online-application-form.pdf). Print the application. You will need to sign it at two places and affix a recent photograph. *Application Reference Number mentioned in the form is required in later stages*.
+  Provide all the required details and submit it once completed. In case of any queries, you can refer the [Sample application form](https://visa.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/sample-passport-online-application-form.pdf). Print the application. You will need to sign it at two places and affix a recent photograph. *Application Reference Number* mentioned in the form is required in later stages.
 		
 **2. Mail-in application and payment:** 
    * Next step is to create a profile on [VFS Portal system](https://services.vfsglobal.com/usa/en/ind/postal-interim). 
